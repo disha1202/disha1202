@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Disha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disha1202" alt="disha1202" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha1202&show_icons=true&locale=en&layout=compact" alt="disha1202" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1202&show_icons=true&locale=en" alt="disha1202" /></p>
+
 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Disha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha1202&label=Profile%20views&color=0e75b6&style=flat" alt="disha1202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disha1202" alt="disha1202" /></a> </p>
 

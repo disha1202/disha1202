@@ -22,7 +22,7 @@
 <a href = 'https://www.github.com/disha1202'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1202&show_icons=true&locale=en" alt="disha1202" /></p>
 
 
 

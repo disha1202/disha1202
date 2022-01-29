@@ -27,6 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1202&show_icons=true&locale=en&theme=radical" alt="disha1202" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disha1202)](https://github.com/disha1202/github-readme-stats)
+
 
 

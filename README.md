@@ -23,6 +23,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1202&show_icons=true&locale=en&theme=radical" alt="disha1202" /></p>
 
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1202&" alt="disha1202" /></p> 
+
   
 <br>
 
@@ -41,7 +45,7 @@
 </a> &nbsp;&nbsp;
 <p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1202&" alt="disha1202" /></p> 
+
   
 <br>
   

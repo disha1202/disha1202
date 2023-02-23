@@ -40,6 +40,8 @@
   <img align="center" alt="Disha Talreja | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1202&" alt="disha1202" /></p> 
   
 <br>
   

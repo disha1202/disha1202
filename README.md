@@ -26,9 +26,10 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1202&" alt="disha1202" /></p> 
-
-  
+ 
 <br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha1202&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" /></p>
 
 <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>

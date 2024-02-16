@@ -3,7 +3,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! I’m Disha Talreja, a second year student currently pursuing my bachelors degree in computer science. 
+<div size='20px'> Hi! I’m Disha Talreja, a final year student currently pursuing my bachelors degree in computer science. 
  :smile: 
 </div>
 

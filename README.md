@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Disha Talreja 👋</h1>
-<h3 align="center">Full-Stack Product Engineer · Agentic AI & MCP Systems · End-to-End Customer Delivery</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,50:E0C3FC,100:A6C1EE&height=170&section=header&text=Hi,%20I'm%20Disha%20Talreja&fontSize=42&fontColor=5B4B6B&fontAlignY=38&desc=Full-Stack%20Product%20Engineer%20·%20Agentic%20AI%20%26%20MCP%20Systems&descSize=16&descAlignY=58&descAlign=50" alt="Disha Talreja" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:dishatalreja1202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=disha1202&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=2E4A7D" alt="LinkedIn"/></a>
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-CDB4DB?style=for-the-badge&logo=x&logoColor=4A3B5C" alt="X"/></a>
+  <a href="mailto:dishatalreja1202@gmail.com"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=8A3B5C" alt="Email"/></a>
+  <a href="https://github.com/disha1202"><img src="https://img.shields.io/badge/GitHub-B5EAD7?style=for-the-badge&logo=github&logoColor=2F5D50" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=disha1202&style=for-the-badge&color=FFDAC1&labelColor=F4E1F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -99,14 +101,18 @@ Ionic · Vuex · TanStack Query · Apollo GraphQL · AWS Amplify & Cognito · RE
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=disha1202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha1202&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disha1202&theme=nord_bright" alt="GitHub stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disha1202&theme=nord_bright" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=disha1202&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=disha1202&hide_border=true&background=ECEFF4&ring=CDB4DB&fire=FFAFCC&currStreakNum=5B4B6B&sideNums=5B4B6B&currStreakLabel=8E7DBE&sideLabels=8E7DBE&dates=9A8FA8&stroke=D8DEE9" alt="GitHub streak"/>
 </p>
 
 ---
 
 <p align="center"><i>I build agents that do real work, and I stay close to the people using them.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6C1EE,50:E0C3FC,100:FBC2EB&height=100&section=footer" width="100%"/>
+</p>

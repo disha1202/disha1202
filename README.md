@@ -40,49 +40,30 @@ I'm a full-stack engineer with 2+ years of experience taking products from a loo
 
 ### 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="140"><b>🤖 AI & Agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-      <img src="https://img.shields.io/badge/Voice_AI-Bolna_·_Vapi-FF6F00?style=for-the-badge&logo=googlepodcasts&logoColor=white" alt="Voice AI"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py&perline=10" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&perline=10" alt="Frontend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&perline=10" alt="Backend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=10" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,jest,postman&perline=10" alt="DevOps and tools"/></td>
-  </tr>
-</table>
+<p align="center"><sub><b>AI & AGENTS</b></sub><br/>
+  <img src="https://img.shields.io/badge/MCP_Servers-FFC8DD?style=for-the-badge&logo=modelcontextprotocol&logoColor=8A3B5C&labelColor=FFC8DD" alt="MCP Servers"/>
+  <img src="https://img.shields.io/badge/LangChain-CDB4DB?style=for-the-badge&logo=langchain&logoColor=4A3B5C&labelColor=CDB4DB" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-A2D2FF?style=for-the-badge&logo=langchain&logoColor=2E4A7D&labelColor=A2D2FF" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-B5EAD7?style=for-the-badge&logo=openai&logoColor=2F5D50&labelColor=B5EAD7" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FFDAC1?style=for-the-badge&labelColor=FFDAC1" alt="RAG Pipelines"/>
+  <img src="https://img.shields.io/badge/Pinecone-E2ECE9?style=for-the-badge&labelColor=E2ECE9" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/n8n-FFC8DD?style=for-the-badge&logo=n8n&logoColor=8A3B5C&labelColor=FFC8DD" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Voice_AI_·_Bolna_·_Vapi-CDB4DB?style=for-the-badge&labelColor=CDB4DB" alt="Voice AI · Bolna · Vapi"/>
+</p>
 
-<details>
-<summary><b>Also worked with</b></summary>
-<br/>
+<p align="center"><sub><b>LANGUAGES & FRONTEND</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vue,tailwind,redux&theme=light" alt="LANGUAGES & FRONTEND"/>
+</p>
 
-Ionic · Vuex · TanStack Query · Apollo GraphQL · AWS Amplify & Cognito · REST APIs · PWAs · Real-time subscriptions
+<p align="center"><sub><b>BACKEND & DATABASES</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postgres,mongodb&theme=light" alt="BACKEND & DATABASES"/>
+</p>
 
-</details>
+<p align="center"><sub><b>DEVOPS & TOOLS</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,jest,postman&theme=light" alt="DEVOPS & TOOLS"/>
+</p>
+
+<p align="center"><sub><i>Also worked with: Ionic · Vuex · TanStack Query · Apollo · AWS Amplify & Cognito · PWAs · Real-time subscriptions</i></sub></p>
 
 ---
 

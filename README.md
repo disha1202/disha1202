@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=2E4A7D" alt="LinkedIn"/></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-CDB4DB?style=for-the-badge&logo=x&logoColor=4A3B5C" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/dishatalreja/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=2E4A7D" alt="LinkedIn"/></a>
+  <a href="https://x.com/Dishaaaaaa_12"><img src="https://img.shields.io/badge/X-CDB4DB?style=for-the-badge&logo=x&logoColor=4A3B5C" alt="X"/></a>
   <a href="mailto:dishatalreja1202@gmail.com"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=8A3B5C" alt="Email"/></a>
   <a href="https://github.com/disha1202"><img src="https://img.shields.io/badge/GitHub-B5EAD7?style=for-the-badge&logo=github&logoColor=2F5D50" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=disha1202&style=for-the-badge&color=FFDAC1&labelColor=F4E1F7&label=PROFILE+VIEWS" alt="Profile views"/>

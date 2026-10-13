@@ -1,0 +1,97 @@
+{
+  "username": "disha1202",
+  "banner": "DISHA TALREJA",
+  "host": "disha@superleap",
+  "subtitle": "@disha1202 · Forward Deployed Engineer @ Superleap · agentic AI & MCP systems",
+
+  "boot": [
+    "Started disha.service",
+    "Loaded module mcp-servers.ko",
+    "Reached target production.target"
+  ],
+
+  "neofetch": [
+    ["OS", "Forward Deployed Engineer @ Superleap"],
+    ["Host", "embedded with Razorpay"],
+    ["Uptime", "2+ years shipping to production"],
+    ["Kernel", "agentic-ai-mcp-6.x"],
+    ["Shell", "typescript, python, langgraph"],
+    ["Roles", "GSoC '24 @ Palisadoes Foundation"],
+    ["Edu", "B.Tech CSE, SKITM (2020-24)"],
+    ["Stats", "auto"]
+  ],
+
+  "sections": [
+    {
+      "cmd": "docker ps -a",
+      "type": "table",
+      "headers": ["CONTAINER", "IMAGE", "STATUS", "ROLE"],
+      "rows": [
+        ["superleap", "razorpay/agentic-ai", "Up since Apr 2026", "forward-deployed-eng"],
+        ["hypergro", "hypergro/voice-agents", "Exited Apr 2026", "sde-1"],
+        ["starworks", "starworks/prime", "Exited Aug 2025", "tech-consultant"],
+        ["gsoc", "palisadoes/talawa", "Exited Nov 2024", "gsoc-contributor"],
+        ["llama", "llama/askllama", "Exited Dec 2023", "swe-intern"]
+      ]
+    },
+    {
+      "cmd": "ls -1 ~/projects",
+      "type": "bullets",
+      "items": [
+        ["Enterprise MCP Servers", "agents acting on real fintech data"],
+        ["CRM Analytics", "dashboards over large CRM datasets"],
+        ["No-Touch AI CRM", "autonomous voice agents for outreach"],
+        ["Pitch Copilot", "website URL → ready-to-use proposal deck"],
+        ["Synthetic Research", "AI-generated ICPs & audience insights"],
+        ["Talawa Chat", "GSoC '24 real-time chat · 100% Jest coverage"],
+        ["AskLlama", "AI chat app · +40% response accuracy"]
+      ]
+    },
+    {
+      "cmd": "cat ~/stack.yaml",
+      "type": "kv",
+      "items": [
+        ["agents:", "MCP · LangGraph · LangChain · OpenAI · RAG · Pinecone · n8n"],
+        ["voice:", "Bolna · Vapi"],
+        ["frontend:", "TypeScript · React · Next.js · Vue · Tailwind · Redux"],
+        ["backend:", "Node · Express · FastAPI · GraphQL · Postgres · MongoDB"],
+        ["devops:", "Docker · AWS · GitHub Actions · Jest · Postman"]
+      ]
+    },
+    {
+      "cmd": "htop --languages",
+      "type": "languages",
+      "auto": true,
+      "top": 6,
+      "fallback": [["TypeScript", 45], ["JavaScript", 25], ["Python", 20], ["Vue", 10]]
+    },
+    {
+      "cmd": "cat ~/.contacts",
+      "type": "kv",
+      "items": [
+        ["linkedin", "in/dishatalreja"],
+        ["x", "@Dishaaaaaa_12"],
+        ["github", "disha1202"],
+        ["email", "dishatalreja1202@gmail.com"]
+      ]
+    },
+    {
+      "cmd": "echo $MOTTO",
+      "type": "text",
+      "class": "tx",
+      "text": "I build agents that do real work, and I stay close to the people using them."
+    },
+    {
+      "cmd": "curl -X CONNECT disha",
+      "type": "text",
+      "text": "200 OK · clickable links & stats attached below ↓"
+    }
+  ],
+
+  "links": [
+    ["LinkedIn", "linkedin", "https://www.linkedin.com/in/dishatalreja/", "56d4dd"],
+    ["X", "x", "https://x.com/Dishaaaaaa_12", "e6edf3"],
+    ["GitHub", "github", "https://github.com/disha1202", "9ece6a"],
+    ["Email", "gmail", "mailto:dishatalreja1202@gmail.com", "febc2e"]
+  ]
+}
